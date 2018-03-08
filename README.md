@@ -35,7 +35,7 @@ Copy `scripts/run_champsim.sh` to the ChampSim root directory and change `TRACE_
 * Single-core simulation: Run simulation with `run_champsim.sh` script.
 
 ```
-$ ./run_champsim.sh bimodal-no-lru-1core 1 10 bzip2_183B
+$ ./run_champsim.sh bimodal-no-no-lru-1core 1 10 bzip2_183B
 
 $ ./run_champsim.sh ${binary} ${n_warm} ${n_sim} ${trace} ${option}
 
