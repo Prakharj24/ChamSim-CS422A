@@ -10,7 +10,7 @@ git clone https://github.com/Prakharj24/ChamSim-CS422A.git
 ```
 2. Go inside ChamSim directory and clone the DRAMSim2 repository.
 ```
-git clone https://github.com/umd-memsys/DRAMSim2.git
+git clone -b baseline/stats https://github.com/Prakharj24/DRAMSim2.git
 ```
 
 3. Inside DRAMSim2 directory, rename the file system.ini.example to system.ini .
