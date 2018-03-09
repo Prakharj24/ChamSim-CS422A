@@ -13,10 +13,6 @@ git clone https://github.com/Prakharj24/ChamSim-CS422A.git
 git clone -b baseline/stats https://github.com/Prakharj24/DRAMSim2.git
 ```
 
-3. Inside DRAMSim2 directory, rename the file system.ini.example to system.ini .
-```
-mv system.ini.example system.ini
-```
 
 # Compile
 
